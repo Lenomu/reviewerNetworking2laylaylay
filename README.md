@@ -18,3 +18,4 @@ Open `index.html` in a browser. No build step or server needed.
 2. Go to **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**, then select `main` and `/ (root)`.
 4. Save, and your site will be live at `https://<username>.github.io/<repo>/`.
+tite
